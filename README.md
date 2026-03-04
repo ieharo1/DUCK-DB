@@ -41,3 +41,4 @@ Este repositorio contiene ejemplos y scripts para explorar las capacidades de Du
 ## 📄 Licencia
 
 © 2026 Isaac Esteban Haro Torres - Todos los derechos reservados.
+
